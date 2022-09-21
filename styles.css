@@ -1,0 +1,12 @@
+.unit {
+    height: 1rem;
+    width: 1rem;
+    border: 1px black solid;
+}
+
+#grid-container {
+    display: flex;
+    flex-wrap: wrap;
+    height: 18rem;
+    width:18rem;
+}
